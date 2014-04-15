@@ -1,0 +1,14 @@
+@charset "UTF-8";
+//@import "compass";
+@import "wp-theme";
+@import "normalize";
+@import "module";
+
+body {
+  font-family: Verdana, Roboto, "Droid Sans", "游ゴシック", YuGothic, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;
+  color: #333;
+  word-wrap: break-word;
+}
+img{
+  vertical-align: bottom;
+}
