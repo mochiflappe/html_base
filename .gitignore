@@ -1,6 +1,7 @@
 *.swp
 *~
 .DS_Store
+thumbs.db
 .sass-cache
 .idea/*
 _notes
